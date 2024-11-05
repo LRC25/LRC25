@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/LRC25">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LRC25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LRC25&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LRC25layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LRC25&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 </p>
